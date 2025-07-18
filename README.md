@@ -1,4 +1,4 @@
-# ✅ Algorithm Checkpoint Submission
+# Algorithm Checkpoint Submission
 
 This project contains solutions to the two algorithm problems given at the checkpoint. The problems are solved using arrays, procedures, functions, nested loops, and different types of parameter passing.
 
@@ -29,7 +29,7 @@ Given two sets of elements, find the sum of all distinct elements (those that ap
 2. **File:** `check_orthogonality_function.algo` 
    - Calls the `dot_product` function and checks if vectors are orthogonal.
 
-## 🛠 Features Used
+## Features Used
 
 - Arrays 
 - Nested loops 
